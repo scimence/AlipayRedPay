@@ -1,7 +1,6 @@
 
 [支付宝红包收款码 https://scimence.gitee.io/alipayredpay](https://scimence.gitee.io/alipayredpay)
 
-![输入图片说明](https://scimence.gitee.io/alipayredpay "在这里输入图片标题")
 
 
 # AlipayRedPay
